@@ -1,7 +1,5 @@
 # HealthConnect-Testing-Refinement-End-to-End-Validation
 
-# HealthConnect Clinic: Predicting Patient No-Shows
-
 **Data Science Track | AnalystLab Africa Experience Lab | Week 7: Model Testing, Error Analysis & Refinement**
 
 > How can HealthConnect Clinic use appointment data to identify patients who may miss their appointments and give the clinic a chance to intervene?
